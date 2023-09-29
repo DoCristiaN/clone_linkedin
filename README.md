@@ -14,7 +14,7 @@ Per risolvere il problema sopra descritto, proponiamo l'implementazione delle se
 Profili Migliorati
 Consentire agli utenti di introdurre una breve dichiarazione dei loro obiettivi professionali (bio) , in modo che le connessioni possano comprendere meglio il loro background e le aspirazioni.
 
-Aggiungere una sezione in cui le connessioni possono valutare le competenze degli altri, offrendo così una visione più completa delle capacità professionali di una persona.
+Aggiungere una sezione in cui le persone possono valutare le competenze degli altri, offrendo così una visione più completa delle capacità professionali di una persona.
 
 Offrire corsi e risorse di formazione professionale direttamente sulla piattaforma per aiutare gli utenti a sviluppare le loro competenze. 
 
