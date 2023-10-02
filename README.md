@@ -2,14 +2,14 @@
 
 Documento di Analisi del Problema
 
-Il problema che voglio risolvere riguarda la connessione tra più aziende dello stesso settore risolvendo problemi lavorativi, risolvendo la connessione tra gli utenti rendendola professionale
+Il problema che voglio risolvere riguarda la connessione tra più aziende dello stesso settore risolvendo problemi lavorativi, connessione tra gli utenti rendendola professionale
 
 Difficoltà nella Ricerca di Contatti: Gli utenti possono avere difficoltà a trovare professionisti rilevanti nel loro settore o ambito geografico.
 
 Migliorare la comunicazione tra gli utenti implementando chat private tra due o più utenti per confronto o lavori.
 
 Funzionalità del Sistema
-Per risolvere il problema sopra descritto, proponiamo l'implementazione delle seguenti funzionalità:
+Per risolvere il problema sopra descritto, propongo l'implementazione delle seguenti funzionalità:
 
 Profili Migliorati
 Consentire agli utenti di introdurre una breve dichiarazione dei loro obiettivi professionali (bio) , in modo che le connessioni possano comprendere meglio il loro background e le aspirazioni.
