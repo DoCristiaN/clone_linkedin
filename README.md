@@ -19,3 +19,11 @@ Aggiungere una sezione in cui le persone possono valutare le competenze degli al
 Offrire corsi e risorse di formazione professionale direttamente sulla piattaforma per aiutare gli utenti a sviluppare le loro competenze. 
 
 Queste funzionalità mirano a migliorare la qualità delle connessioni e delle interazioni professionali sulla mia web app.
+
+
+
+https://yuml.me/diagram/usecase/%5Bvisitatore%5D%20-%20(leggere%20post),%20%5BUtente%5D-(registrazione),%5BUtente%5D-(ricerca%20Professioni),%5Butente%5D-(personalizzare%20account),(personalizzare%20account)%3E(verificare%20l'account),%5Bprofessionista%5D%20-%20(registrazione),%5Bprofessionista%5D%20-%20(offrire%20lavoro),%5Bprofessionista%5D%20-%20(ricerca%20clientela,%5Bprofessionista%5D%20-%20(ricerca%20tra%20utenti%20sull'%20app),%20(offrire%20lavoro)%3E%20(registrare%20azienda),(ricerca%20tra%20utenti%20sull'%20app)%20%3E%20(registrare%20azienda))https://yuml.me/diagram/usecase/%5Bvisitatore%5D%20-%20(leggere%20post),%20%5BUtente%5D-(registrazione),%5BUtente%5D-(ricerca%20Professioni),%5Butente%5D-(personalizzare%20account),(personalizzare%20account)%3E(verificare%20l'account),%5Bprofessionista%5D%20-%20(registrazione),%5Bprofessionista%5D%20-%20(offrire%20lavoro),%5Bprofessionista%5D%20-%20(ricerca%20clientela,%5Bprofessionista%5D%20-%20(ricerca%20tra%20utenti%20sull'%20app),%20(offrire%20lavoro)%3E%20(registrare%20azienda),(ricerca%20tra%20utenti%20sull'%20app)%20%3E%20(registrare%20azienda)
+
+
+
+
