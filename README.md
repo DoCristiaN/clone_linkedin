@@ -25,5 +25,12 @@ Queste funzionalità mirano a migliorare la qualità delle connessioni e delle i
 https://yuml.me/diagram/usecase/%5Bvisitatore%5D%20-%20(leggere%20post),%20%5BUtente%5D-(registrazione),%5BUtente%5D-(ricerca%20Professioni),%5Butente%5D-(personalizzare%20account),(personalizzare%20account)%3E(verificare%20l'account),%5Bprofessionista%5D%20-%20(registrazione),%5Bprofessionista%5D%20-%20(offrire%20lavoro),%5Bprofessionista%5D%20-%20(ricerca%20clientela,%5Bprofessionista%5D%20-%20(ricerca%20tra%20utenti%20sull'%20app),%20(offrire%20lavoro)%3E%20(registrare%20azienda),(ricerca%20tra%20utenti%20sull'%20app)%20%3E%20(registrare%20azienda))https://yuml.me/diagram/usecase/%5Bvisitatore%5D%20-%20(leggere%20post),%20%5BUtente%5D-(registrazione),%5BUtente%5D-(ricerca%20Professioni),%5Butente%5D-(personalizzare%20account),(personalizzare%20account)%3E(verificare%20l'account),%5Bprofessionista%5D%20-%20(registrazione),%5Bprofessionista%5D%20-%20(offrire%20lavoro),%5Bprofessionista%5D%20-%20(ricerca%20clientela,%5Bprofessionista%5D%20-%20(ricerca%20tra%20utenti%20sull'%20app),%20(offrire%20lavoro)%3E%20(registrare%20azienda),(ricerca%20tra%20utenti%20sull'%20app)%20%3E%20(registrare%20azienda)
 
 
+VALUE PROPOSITION
+"La chiave per connessioni professionali di successo"
 
+-vasta rete di professionisti e aziende di ogni settore 
+-servizi di corsi online, webinar e contenuti formativi
+-creazione profilo personale per mostrare le proprie competenze 
+-ricerca in base ad interessi e competenze specifiche 
+-consentire alle aziende di trovare candidati qualificati per la propria attivitá 
 
