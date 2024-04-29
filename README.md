@@ -34,3 +34,9 @@ VALUE PROPOSITION
 -ricerca in base ad interessi e competenze specifiche 
 -consentire alle aziende di trovare candidati qualificati per la propria attivitá 
 
+
+Gestione delle Identità: Implementare un sistema robusto di gestione delle identità che consenta a ogni utente (azienda o professionista) di creare e gestire il proprio profilo personale. Questo include autenticazione, autorizzazione e gestione delle sessioni.
+Personalizzazione dei Profili: Consentire a ogni utente di creare un profilo personalizzato per mostrare le proprie competenze, interessi e esperienze. Questo può includere la possibilità di caricare curriculum, portfolio, certificazioni e altro ancora.
+Gestione dei Contenuti Formativi: Offrire servizi di corsi online, webinar e contenuti formativi che siano accessibili a tutti i tenant, ma che possano essere personalizzati in base alle esigenze specifiche di ciascuno.
+Ricerca e Matching: Implementare un sistema di ricerca avanzato che consenta agli utenti di trovare altri utenti in base agli interessi, alle competenze e alle esigenze specifiche. Questo potrebbe includere filtri avanzati e algoritmi di matching.
+Recruitment e Selezione: Consentire alle aziende di pubblicare offerte di lavoro e cercare candidati qualificati sulla piattaforma, utilizzando filtri basati sulle competenze e gli interessi dei candidati.
